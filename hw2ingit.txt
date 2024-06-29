@@ -1,0 +1,33 @@
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop (master)
+$ mkdir SALAM
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop (master)
+$ cd SALAM
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ touch s2.text
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ touch s1.txt
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ rm s2.text
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ touch s2.txt
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ touch s3.txt
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ rm s1.txt
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop/SALAM (master)
+$ cd ..
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop (master)
+$ rm -r SALAM
+
+Landau@DESKTOP-DA8I1IF MINGW64 ~/Desktop (master)
+$
